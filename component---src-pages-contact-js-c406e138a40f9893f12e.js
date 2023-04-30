@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdiggital_webb=self.webpackChunkdiggital_webb||[]).push([[501],{5791:function(e,t,i){i.r(t),i.d(t,{Head:function(){return n}});var l=i(7294),a=(i(1883),i(8678));const n=()=>l.createElement("title",null,"About Me");t.default=()=>l.createElement(a.Z,{pageTitle:"Contact Us"},l.createElement("p",null,"Hi there! I'm the proud creator of this site, which I built with Gatsby."))}}]);
+//# sourceMappingURL=component---src-pages-contact-js-c406e138a40f9893f12e.js.map

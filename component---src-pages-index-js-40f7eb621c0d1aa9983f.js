@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdiggital_webb=self.webpackChunkdiggital_webb||[]).push([[678],{6558:function(e,t,l){l.r(t),l.d(t,{Head:function(){return n}});var i=l(7294),a=l(8678);const n=()=>i.createElement("title",null,"Diggital");t.default=()=>i.createElement(a.Z,{pageTitle:"Diggital"},i.createElement("p",null,"I'm making this by following the Gatsby Tutorial."))}}]);
+//# sourceMappingURL=component---src-pages-index-js-40f7eb621c0d1aa9983f.js.map
