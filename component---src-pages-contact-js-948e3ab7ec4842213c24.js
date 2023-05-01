@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdiggital_webb=self.webpackChunkdiggital_webb||[]).push([[501],{5791:function(e,t,a){a.r(t),a.d(t,{Head:function(){return c}});var l=a(7294),n=(a(1883),a(9961));const c=()=>l.createElement("title",null,"Contact Us");t.default=()=>l.createElement(n.Z,{pageTitle:"Contact Us"},l.createElement("div",{className:"row"},l.createElement("p",null,"Aaa")))}}]);
+//# sourceMappingURL=component---src-pages-contact-js-948e3ab7ec4842213c24.js.map
